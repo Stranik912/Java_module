@@ -5,8 +5,8 @@ Java module
 <h1> lesson 2 </h1>
 создал репозиторий 
 добавил в ветку lesson 2 файлы
-сделал pull requests
-lesson 6 
+сделал pull requests <br>
+<h1> lesson 2 </h1>
 <hr>
 выполнил обязательное задание 
 к сожалению дополнительные не делал 
