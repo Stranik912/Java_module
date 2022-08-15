@@ -54,4 +54,5 @@ public class HomeWorkPart2 {
             System.out.print( result + " ");
             counter++;}
     }
+
 }
